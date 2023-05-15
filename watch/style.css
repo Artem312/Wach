@@ -1,0 +1,244 @@
+.site-header {
+    position: relative;
+width: 1366px;
+height: 3156px;
+
+background: #FFFFFF;
+  }
+  
+.menu {
+box-sizing: border-box;
+position: absolute;
+width: 18px;
+height: 16px;
+left: 55px;
+top: 34px;
+}
+.logo {
+  position: absolute;
+  width: 103.68px;
+  height: 26px;
+  left: 97px;
+  top: 31px
+}
+.instagram_icon {
+position: absolute;
+Width: 18px;
+Height: 18x;
+top: 346px;
+Left: 55px;
+
+background: #5C5C50;
+}
+.watch_main {
+position: absolute;
+width: 502.63px;
+height: 804.25px;
+left: 662px;
+top: -9.41px;
+
+background: url(4.png);
+mix-blend-mode: normal;
+transform: rotate(-0.18deg);
+}
+.icons_1{
+position: absolute;
+width: 18px;
+height: 75px;
+left: 55px;
+top: 346px;
+}
+.Ellipse{
+position: absolute;
+width: 496px;
+height: 944px;
+left: 480px;
+top: -08px;
+background: linear-gradient(180deg, rgba(234, 227, 212, 0) 100%, #EAE3D4 100%);
+mix-blend-mode: normal;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+.price_main{
+position: absolute;
+width: 140px;
+height: 16px;
+left: 583px;
+top: 138px;
+}
+.header_main {
+  position: absolute;
+width: 408px;
+height: 95px;
+left: 120px;
+top: 236px;
+}
+.about_us {
+  position: absolute;
+  width: 258px;
+  height: 34px;
+  left: 185px;
+  top: 370px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  
+  color: rgba(27, 26, 23, 0.82);
+}
+.button_1 {
+  position: absolute;
+width: 205px;
+height: 64px;
+left: 181px;
+top: 468px;
+}
+.icons_header {
+  position: absolute;
+  width: 99px;
+  height: 21px;
+  left: 1212px;
+  top: 35px;  
+}
+.diameter {
+  position: absolute;
+width: 187px;
+height: 16px;
+left: 1065px;
+top: 636px;
+}
+.background_2 {
+  position: absolute;
+width: 1366px;
+height: 894px;
+left: 0px;
+top: 768px;
+
+background: #FFFFFF;
+}
+.header_2screen {
+  position: absolute;
+width: 306px;
+height: 36px;
+left: 530px;
+top: 100px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+
+color: #1B1A17;
+}
+.watches_1 {
+  position: absolute;
+width: 370px;
+height: 467px;
+left: 98px;
+top: 200px;
+}
+.watches_2 {
+  position: absolute;
+  width: 760px;
+  height: 478px;
+  left: 508px;
+  top: 200px;
+}
+.watches_3 {
+position: absolute;
+width: 565px;
+height: 220px;
+left: 98px;
+top: 700px;
+}
+.watches_4 {
+position: absolute;
+width: 565px;
+height: 226px;
+left: 703px;
+top: 700px;
+}
+.see_all {
+  position: absolute;
+width: 104px;
+height: 26.5px;
+left: 1164px;
+top: 140px;
+}
+.banner {
+  position: absolute;
+width: 1366px;
+height: 519px;
+left: 0px;
+top: 1742px;
+}
+.button_banner {
+  position: absolute;
+width: 205px;
+height: 64px;
+left: 767px;
+top: 2061px;
+}
+.screen3 {
+  position: absolute;
+  width: 1171px;
+  height: 460px;
+  left: 97px;
+  top: 2341px;
+}
+.footer {
+  box-sizing: border-box;
+
+position: absolute;
+width: 1366px;
+height: 275px;
+left: 0px;
+top: 2881px;
+
+background: #444240;
+}
+.vector1 {
+  position: absolute;
+height: 16px;
+left: 88.73%;
+right: 10.1%;
+top: 40px;
+}
+.vector2 {
+  position: absolute;
+  height: 16px;
+  left: 91.58%;
+  right: 7.03%;
+  top: 40px;
+}
+.vector3 {
+  position: absolute;
+height: 16px;
+left: 94.66%;
+right: 4.03%;
+top: 40px;
+}
+.ellipse2 {
+  position: absolute;
+width: 13px;
+height: 13px;
+left: 1265px;
+top: 35px;
+}
+.t1 {
+  position: absolute;
+width: 11px;
+height: 9px;
+left: 1266px;
+top: 37px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 9px;
+text-align: center;
+}
